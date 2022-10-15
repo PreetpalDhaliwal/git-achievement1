@@ -1,5 +1,5 @@
 body {
-  background-color: navy;
+  background-color: rgb(1, 1, 42);
 }
 
 img {
@@ -7,13 +7,9 @@ width: 100ch;
 }
 
 h1 {
-  color: rgb(151, 7, 7);
-  font-family: Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(83, 11, 11);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 p {
-<<<<<<< HEAD
-  color: rgb(41, 14, 14);
-=======
-  color: white;
->>>>>>> a3f6070ecbd99d6c74430a6f169970dbbed26387
+  color: rgb(255, 255, 255);
 }
