@@ -11,5 +11,9 @@ h1 {
   font-family: Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 p {
+<<<<<<< HEAD
   color: rgb(41, 14, 14);
+=======
+  color: white;
+>>>>>>> a3f6070ecbd99d6c74430a6f169970dbbed26387
 }
