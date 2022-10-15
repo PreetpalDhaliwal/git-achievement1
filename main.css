@@ -15,3 +15,7 @@ p {
   font-size: 20px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+li {
+  color: aquamarine;
+}
